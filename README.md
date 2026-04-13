@@ -65,10 +65,6 @@ Interactive web app for predicting crop yield based on user input.
 streamlit run yield_app.py
 
 ---
-### Live app 
-
-
----
 
 ## Model File
 Due to GitHub size limitations, the trained model file is not included in this repository.
