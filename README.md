@@ -79,9 +79,18 @@ Due to GitHub size limitations, the trained model file is not included in this r
 crop-yield-prediction/
 │
 ├── data/
-      └──Crop_Yield_Prediction.ipynb
+│     └── Crop Yield Data.csv
 ├── notebook/
+│       └── Crop_Yield_Prediction.ipynb
 ├── model/
-├── app.py
+│      └── Not included due to github limitation.
+├── app
+│    └── yield_app.py
 ├── requirements.txt
 └── README.md
+```
+
+----
+
+## Author
+**Yuvraj Singh**
